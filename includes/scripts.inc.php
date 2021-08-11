@@ -1,0 +1,12 @@
+<script src="<?php echo $rootURL ?>assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="<?php echo $rootURL ?>assets/smoothscroll/smooth-scroll.js"></script>
+<script src="<?php echo $rootURL ?>assets/dropdown/js/nav-dropdown.js"></script>
+<script src="<?php echo $rootURL ?>assets/dropdown/js/navbar-dropdown.js"></script>
+<script src="<?php echo $rootURL ?>assets/touchswipe/jquery.touch-swipe.min.js"></script>
+<script src="<?php echo $rootURL ?>assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>  
+<script src="<?php echo $rootURL ?>assets/mbr-testimonials-slider/mbr-testimonials-slider.js"></script>  
+<script src="<?php echo $rootURL ?>assets/formstyler/jquery.formstyler.js"></script>  
+<script src="<?php echo $rootURL ?>assets/formstyler/jquery.formstyler.min.js"></script>  
+<script src="<?php echo $rootURL ?>assets/datepicker/jquery.datetimepicker.full.js"></script>  
+<!-- <script src="<?php echo $rootURL ?>assets/theme/js/script.js"></script>   -->
+<script src="<?php echo $rootURL ?>assets/formoid/formoid.min.js"></script>

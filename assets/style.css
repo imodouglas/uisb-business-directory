@@ -1,0 +1,98 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.full-screen {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.flex-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sub-text {
+  color: #555;
+}
+
+.key-text {
+  color: #f36128;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.m10 {
+  margin: 10px;
+}
+
+.mt10 {
+  margin-top: 10px !important;
+}
+
+.m0 {
+  margin: 0;
+}
+
+.p20 {
+  padding: 20px;
+}
+
+.p10 {
+  padding: 10px;
+}
+
+.pl10 {
+  padding-left: 10px;
+}
+
+.pt20 {
+  padding-top: 20px;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.pt100 {
+  padding-top: 100px;
+}
+
+.pb100 {
+  padding-bottom: 100px;
+}
+
+.active-star {
+  color: #ffd000;
+}
+
+.inactive-star {
+  color: #777;
+}
+
+.card-box {
+  box-shadow: #f0f0f0 0px 0px 15px;
+  padding: 15px;
+  border-radius: 5px;
+}
+.card-review {
+  box-shadow: #f0f0f0 0px 2px 4px;
+  padding: 10px;
+  margin: 5px 0px;
+  border-radius: 5px;
+}
+
+.social-icon {
+  padding: 10px;
+  color: #fff;
+  border-radius: 50%;
+  background: #555;
+}
+.social-icon:hover {
+  background-color: #000;
+}/*# sourceMappingURL=style.css.map */
