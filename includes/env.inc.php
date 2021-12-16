@@ -3,7 +3,7 @@
 $companyName = "UISB Professionals' Hub";
 $companyPhone = "08012345678";
 $companyEmail = "info@uisbprohub.com";
-$rootURL = "http://uisbprohub.ew/";
+$rootURL = "https://uisbprohub.com/";
 
 
 if(isset($_SESSION['uisb_user_session'])){
