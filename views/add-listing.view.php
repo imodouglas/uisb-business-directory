@@ -43,7 +43,7 @@
                     </div>
                     <div class="p10 input-group">
                         <div class="input-group-prepend">
-                            <span class="input-group-text" id="basic-addon1"><?php echo "www.".trim($rootURL, "http://")."/"; ?></span>
+                            <span class="input-group-text" id="basic-addon1"><?php echo "www.".trim($rootURL, "https://")."/"; ?></span>
                         </div>
                         <input type="text" name="slug" id="slug" class="form-control" placeholder="business-link" required />
                     </div>
